@@ -1,0 +1,27 @@
+#include <iostream>
+
+#include <iomanip>
+
+
+
+using namespace std;
+
+
+
+int main() {
+
+    int masa;
+
+    double wzrost;
+    void obliczBMI(int, double);
+
+
+    cout<<"Masa"<<  endl;
+    cout<<"Wzrost"<< endl;
+    cin >> masa >> wzrost;
+
+    obliczBMI(masa, wzrost);
+
+
+
+    return 0;

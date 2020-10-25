@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603139664 source:c:\users\zgred\onedrive\desktop\bmi\main.cpp
+	<iostream>
+	<iomanip>
+
