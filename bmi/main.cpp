@@ -12,7 +12,7 @@ void obliczBMI(int, double);
 
 
 cout<<"Masa"<<  endl;
-    cout<<"Wzrost"<< endl;
+cout<<"Wzrost"<< endl;
     cin >> masa >> wzrost;
 
     obliczBMI(masa, wzrost);
