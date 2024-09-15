@@ -8,7 +8,7 @@ int main() {
 int masa;
 
 double wzrost;
-    void obliczBMI(int, double);
+void obliczBMI(int, double);
 
 
     cout<<"Masa"<<  endl;
