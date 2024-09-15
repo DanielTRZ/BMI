@@ -7,7 +7,7 @@ int main() {
 
 int masa;
 
-    double wzrost;
+double wzrost;
     void obliczBMI(int, double);
 
 
