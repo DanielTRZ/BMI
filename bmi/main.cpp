@@ -18,7 +18,7 @@ obliczBMI(masa, wzrost);
 
 
 
-    return 0;
+return 0;
 
 }
 
