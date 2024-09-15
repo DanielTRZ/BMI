@@ -14,7 +14,7 @@ cout<<"Masa"<<  endl;
 cout<<"Wzrost"<< endl;
 cin >> masa >> wzrost;
 
-    obliczBMI(masa, wzrost);
+obliczBMI(masa, wzrost);
 
 
 
