@@ -16,7 +16,6 @@ cin >> masa >> wzrost;
 
 obliczBMI(masa, wzrost);
 
-
 return 0;
 
 }
