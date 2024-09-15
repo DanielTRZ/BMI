@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 
-    int masa;
+int masa;
 
     double wzrost;
     void obliczBMI(int, double);
