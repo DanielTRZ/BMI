@@ -20,7 +20,6 @@ return 0;
 
 }
 
-
 void obliczBMI(int m, double w) {
 
     double BMI = m / (w * w);
