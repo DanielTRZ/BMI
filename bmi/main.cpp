@@ -27,7 +27,7 @@ cout << setprecision(6) << BMI << endl;
     
 if(BMI > 30)
 
-        cout << "OTYLOSC";
+cout << "OTYLOSC";
 
     else if (BMI <= 30 && BMI > 25)
 
