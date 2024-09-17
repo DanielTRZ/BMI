@@ -25,7 +25,6 @@ double BMI = m / (w * w);
 
 cout << setprecision(6) << BMI << endl;
 
-
     if(BMI > 30)
 
         cout << "OTYLOSC";
