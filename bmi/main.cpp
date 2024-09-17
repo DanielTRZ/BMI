@@ -29,7 +29,7 @@ if(BMI > 30)
 
 cout << "OTYLOSC";
 
-    else if (BMI <= 30 && BMI > 25)
+else if (BMI <= 30 && BMI > 25)
 
         cout << "NADWAGA";
 
