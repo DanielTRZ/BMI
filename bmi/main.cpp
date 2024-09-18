@@ -33,7 +33,7 @@ cout << "NADWAGA";
 
 else if (BMI <= 25 && BMI >= 20)
 
-    cout << "NORMA";
+cout << "NORMA";
 
     else
 
