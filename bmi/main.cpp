@@ -37,6 +37,6 @@ cout << "NORMA";
 
 else
 
-        cout << "NIEDOWAGA";
+cout << "NIEDOWAGA";
 
 }
